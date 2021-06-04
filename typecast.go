@@ -1,8 +1,8 @@
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func main() {
-// 	var c float32 = 65.98
-// 	fmt.Println(int(c))
-// }
+func main() {
+	var c float32 = 65.98
+	fmt.Println(int(c))
+}
